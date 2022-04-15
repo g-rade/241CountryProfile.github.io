@@ -1,10 +1,20 @@
 name: "241CountryProfile"
+output_dir: "."
 navbar:
   title: "German Foreign Policy"
   left:
-    - text: "Overview anf History"
-    - href: index.html
+    - text: "History"
+    - href: history.html
     - text: "Stated Foreign Policy Goals"
     - href: goals.html
+    - text: "Military and Defense Structure"
+    - href: structure.html
+    - text: "Political Party Views"
+    - href: parties.html
+    - text: "Foreign Policy Issues"
+    - href: issues.html
+output:
+  html_document:
+    theme: cosmo
 
   

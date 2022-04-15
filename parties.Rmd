@@ -1,0 +1,11 @@
+---
+title: "Political Party Views"
+output:
+   html_document:
+     toc: true
+     toc_float: true
+---
+## Major Parties and their Foreign Policy Platforms
+
+
+## General Consensus
