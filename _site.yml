@@ -1,0 +1,10 @@
+name: "241CountryProfile"
+navbar:
+  title: "German Foreign Policy"
+  left:
+    - text: "Overview anf History"
+    - href: index.html
+    - text: "Stated Foreign Policy Goals"
+    - href: goals.html
+
+  
