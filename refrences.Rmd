@@ -1,0 +1,6 @@
+---
+title: "Refrences"
+output: html_document
+bilbiography: refrences.bib
+nocite: "@*"
+---

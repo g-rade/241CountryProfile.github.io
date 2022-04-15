@@ -13,6 +13,8 @@ navbar:
     - href: parties.html
     - text: "Foreign Policy Issues"
     - href: issues.html
+    - text: "Refrences"
+    - href: refrences.html
 output:
   html_document:
     theme: cosmo
