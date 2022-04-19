@@ -6,8 +6,6 @@ output:
      toc: true
      toc_float: true
 ---
+## Overview 
 
-## Recent Trends
 
-
-## Historical Foreign Policy

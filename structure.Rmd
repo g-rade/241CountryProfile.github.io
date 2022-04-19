@@ -1,5 +1,5 @@
 ---
-title: "Military and Defense Structure"
+title: "Military Structure"
 output:
    html_document:
      toc: true
@@ -7,4 +7,25 @@ output:
 ---
 ## Military Structure
 
-## Defense in the Government
+The Federal Armed Forces (Bundeswher) of Germany are comprised of three different armed branches: the army, the navy, and the air force. Recently, Germany has partnered with the Netherlands and has several German-Dutch military units. Additionally, a joint Franc-German infantry was incorporated in 1989. The federal police force (Bundipolizei) and Coast Guard are maintained separately. 
+
+The Bundeswher is under the control of the Bundestag (parliament), and was created to be a citizens defense force, with officers trained with the role of the military in a democracy kept in mind. Given the parliamentary control of the Bundeswher, it is meant to act in alignment with the wishes of the peolpe of Germany. The parliamentary oversight is also one of many mechanisms outlined in the German Basic Law (the German constitution) to prevent a return to the militarism and totalitarianism Germany experienced under Hitler's Third Reich. 
+
+Over time, the role of the Bundeswher has shifted from border security to involvement in disputes abroad. This shift has resulted in a massive reogranization of the armed forces in order to reduce spending and more align with current foreign policy interests. The Bundeswher now has three joint-operation command categories: response forces, stabilization forces, and support forces. 
+
+Response forces are designated for high-intensity combat operations, stabilization forces for low-intensity missions (such as peace keeping), and support forces are tasked with command, control, logistics, and training. Additionally, Germany is a contributing member of EuroCorps. 
+
+As of 2021, there are approximately 184,000 active duty personnel. In 2020, Germany announced a plan to increase the size of the military, aiming for a total of 200,000 troops by 2025. The Bundeswher is an all-volunteer force, with conscroption ending 2011. 
+
+## Defense Agencies in the Government
+
+Germany has a number of intelligence agencies, which function at the federal level. Some of these agencies that work specifically to help conduct foreign policy include:
+
+* Federal Intelligence Service (Bundesnachrichtendienst; BND)
+  + The BND is based in Berlin and is tasked with combating external threats. 
+  
+* Customs Criminological Office (Zollkriminalamt; ZKA)
+  + Also based in Cologne, gthe ZKA investigates and handles customs violations
+
+* Federal Criminal Investigation Office (Bundeskriminalamt; BKA)
+  + Based in Wiesbaden, the BKA aides other federal agencies in investigating crime through forensic and research assistance. The BKA also coordinates between agencies (state, national, and international) and has taken on a more prominent role since the 9/11 attacks. 
