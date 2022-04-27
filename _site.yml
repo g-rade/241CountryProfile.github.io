@@ -7,13 +7,13 @@ navbar:
     - href: history.html
     - text: "Stated Foreign Policy Goals"
     - href: goals.html
-    - text: "Military Structure"
+    - text: "Policy Sources"
     - href: structure.html
     - text: "Political Party Views"
     - href: parties.html
     - text: "Foreign Policy Issues"
     - href: issues.html
-    - text: "Refrences"
+    - text: "References"
     - href: refrences.html
 output:
   html_document:

@@ -1,11 +1,15 @@
 ---
 title: "Overview"
 author: "Grace Rade"
-output:
-   html_document:
-     toc: true
-     toc_float: true
+output: html_document
 ---
-## Overview 
+This website aims to provide a brief but comprehensive view into the foreign policy of Germany. Sections include:
 
+* History of German foreign policy since 1945
+* The stated foreign policy goals of the German government
+* The structure of the military and defense regime 
+* Major political party views on foreign policy
+* Some current foreign policy issues
+
+![](https://media.giphy.com/media/VN7qpUiqxl6UHGD1RB/giphy.gif)
 
